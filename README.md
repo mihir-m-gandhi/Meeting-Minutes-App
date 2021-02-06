@@ -9,7 +9,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-<h4> <strong>Meeting Minutes App</strong> can be used to record the audio of a meeting, convert speech-to-text, and store the transcript for future reference. It also supports speaker diarization, text summarization, and had in-built calendar integration.</h4>
+<h4> <strong>Meeting Minutes App</strong> can be used to record the audio of a meeting, convert speech-to-text, and store the transcript for future reference. It also supports speaker diarization, text summarization, and has in-app calendar integration.</h4>
 
 </div>
 
