@@ -16,9 +16,10 @@
 -----------------------------------------
 ### Features
 
-- `Record audio and create transcript notes` : Hit the Record icon to record audio, and the app will start listening. When done, hit the same button again, and text is generated. IBM Watson Speech to Text API is used for real-time and accurate transcription.
-- `Edit text after recording` : The generated text can be edited to correct spelling or grammatical errors, or to add some text to the note before saving it.
-- `Text summarization` : View a summary of the text in case of longer audios. A bag-of-words model is used for keyword extraction and text summarization.
+- `Record audio and create transcript notes` : Hit the Record icon to record audio, and the app will start listening. When done, hit the same button again, and a transcript is generated. IBM Watson Speech to Text API is used for real-time and accurate transcription.
+- `Speaker Diarization` : Different speakers are identified in the audio and labelled accordingly in the transcript.
+- `Edit text after recording` : The generated transcript can be edited to correct spelling or grammatical errors, or to add some text before saving it.
+- `Text summarization` : A summary of the transcript is also generated for longer audios.
 - `Calendar integration` : In-built calendar to save important dates and reminders.
 - `Save the notes` : Store the text in a txt file for future reference.
 - `Load a saved note` : Load a previously saved file along with its summary within the app itself.
