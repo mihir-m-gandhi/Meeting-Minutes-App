@@ -57,7 +57,7 @@ Siddharth Umachandar - [siddharth9805](https://github.com/siddharth9805/)
 
 Amit Bhujbal - [amit99](https://github.com/amit-99)
 
-Shivam Mahajan 
+Shivam Mahajan - [ShivamSpm](https://github.com/ShivamSpm)
 
 
 ------------------------------------------
