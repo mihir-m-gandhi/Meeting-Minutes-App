@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img height=100px src="./meeting-minutes.png" alt="Meeting-Minutes"></a>
+ <img height=125px src="./meeting-minutes.png" alt="Meeting-Minutes"></a>
 </p>
 
 <h1 align="center">Meeting Minutes App</h1>
