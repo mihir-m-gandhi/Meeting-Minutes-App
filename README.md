@@ -54,7 +54,7 @@ Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
 
 Siddharth Umachandar - [siddharth9805](https://github.com/siddharth9805/)
 
-Amit Bhujbal - [amit99](https://github.com/amit-99)
+Amit Bhujbal - [amit-99](https://github.com/amit-99)
 
 Shivam Mahajan - [ShivamSpm](https://github.com/ShivamSpm)
 
