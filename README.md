@@ -45,7 +45,7 @@
 
 ------------------------------------------
 ### Note
-- This project was done in less than `24 hours with minimal pre-preparation` at KJSCE hackathon 2018.
+- This project was done in `less than 24 hours` at KJSCE hackathon 2018.
 
 ------------------------------------------
 ### Contributors
